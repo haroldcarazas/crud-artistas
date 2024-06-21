@@ -5,7 +5,7 @@
     "description": "Esta es la API para manejar los datos de la galería de arte.",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "https://crud-artistas.onrender.com",
   "basePath": "/",
   "schemes": [
     "http"
